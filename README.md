@@ -6,3 +6,4 @@
 | A Very Big Sum | Easy | [Link](https://www.hackerrank.com/challenges/a-very-big-sum/) | [File](Easy/AVeryBigSum.md) |
 | Diagonal Difference | Easy | [Link](https://www.hackerrank.com/challenges/diagonal-difference/) | [File](Easy/DiagonalDifference.md) |
 | Plus Minus | Easy | [Link](https://www.hackerrank.com/challenges/plus-minus/) | [File](Easy/PlusMinus.md) |
+| Staircase | Easy | [Link](https://www.hackerrank.com/challenges/staircase/) | [File](Easy/Staircase.md) |
