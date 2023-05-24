@@ -8,3 +8,4 @@
 | Plus Minus | Easy | [Link](https://www.hackerrank.com/challenges/plus-minus/) | [File](Easy/PlusMinus.md) |
 | Staircase | Easy | [Link](https://www.hackerrank.com/challenges/staircase/) | [File](Easy/Staircase.md) |
 | Mini-Max Sum | Easy | [Link](https://www.hackerrank.com/challenges/mini-max-sum/) | [File](Easy/MiniMaxSum.md) |
+| Birthday Cake Candles | Easy | [Link](https://www.hackerrank.com/challenges/birthday-cake-candles/) | [File](Easy/BirthdayCakeCandles.md) |
