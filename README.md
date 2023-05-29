@@ -11,3 +11,4 @@
 | Birthday Cake Candles | Easy | [Link](https://www.hackerrank.com/challenges/birthday-cake-candles/) | [File](Easy/BirthdayCakeCandles.md) |
 | Time Conversion | Easy | [Link](https://www.hackerrank.com/challenges/time-conversion/) | [File](Easy/TimeConversion.md) |
 | Grading Students | Easy | [Link](https://www.hackerrank.com/challenges/grading/) | [File](Easy/GradingStudents.md) |
+| Apple and Orange | Easy | [Link](https://www.hackerrank.com/challenges/apple-and-orange/) | [File](Easy/AppleAndOrange.md) |
